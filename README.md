@@ -1,4 +1,4 @@
-# DAYAKNESE
+# D_knife
 
 D_knife.rb Di Buat Menggunaka Bahasa Program ruby. Tools Ini Berfungsi Untuk Mengumpulkan Informasi tentang Website target yang ter proteksi oleh CloudFlare.
 Tools Ini Bisa Kita Gunakan Untuk Pengetesan Di Web Server Kita Agar Terhindar Dari serangan Ddos
@@ -22,3 +22,4 @@ ou<br />
 <strong>ruby D_knife.rb --byp site Target</strong><br />
 
 Instagram : eeevvnx
+#DayakNese
